@@ -1,6 +1,6 @@
 
 
-##Prediction of Twitter Retweet Count Based on Twitter data
+## Prediction of Twitter Retweet Count Based on Twitter data
 
 Team-Supernova
 Members-Teena Gorge, Ao Li, Qianyi Li, Yuxi Wu, Yaxin Chen
